@@ -10,7 +10,7 @@ Install Node.js and then:
 
 ```sh
 $ git clone https://github.com/jforaker/ngbp-gulp.git
-$ cd ng-boilerplate
+$ cd ngbp-gulp
 $ npm install
 $ bower install
 $ gulp
